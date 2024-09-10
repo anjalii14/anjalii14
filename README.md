@@ -4,7 +4,7 @@
 
 Hi, I’m Anjali Singh, a B.Tech student in Information Technology at the Indian Institute of Information Technology, Allahabad. I’m passionate about technology and eager to contribute to innovative projects. Here’s a snapshot of my journey and expertise:
 
-## About Me ℹ
+## About Me
 -  Currently pursuing a B.Tech degree in Information Technology with a CGPA of 9.31.
 -  Experienced in **creating RESTful APIs**, **Android development**, and various technical skills.
 
