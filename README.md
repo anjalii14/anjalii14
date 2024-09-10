@@ -10,7 +10,7 @@ Hi, I’m Anjali Singh, a B.Tech student in Information Technology at the Indian
 
 ## Internship Experience 💼
 - **SWE Intern at Google**  
-  *May 2024 – Present | Bangalore*  
+  *May 2024 – Aug, 2024 | Bangalore*  
   **Effortless Multi-Page Document Video Scanning**  
   *Technologies: OpenCV, Kotlin, C++, JNI*
   - Implemented an auto-capture video document scanner app in Kotlin, which detects, crops, and scans only unique documents
