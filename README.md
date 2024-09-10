@@ -4,7 +4,7 @@
 
 Hi, I’m Anjali Singh, a B.Tech student in Information Technology at the Indian Institute of Information Technology, Allahabad. I’m passionate about technology and eager to contribute to innovative projects. Here’s a snapshot of my journey and expertise:
 
-## About Me ℹ️
+## About Me ℹ
 -  Currently pursuing a B.Tech degree in Information Technology with a CGPA of 9.31.
 -  Experienced in **creating RESTful APIs**, **Android development**, and various technical skills.
 
@@ -15,7 +15,7 @@ Hi, I’m Anjali Singh, a B.Tech student in Information Technology at the Indian
   *Technologies: OpenCV, Kotlin, C++, JNI*
   - Implemented an auto-capture video document scanner app in Kotlin, which detects, crops, and scans only unique documents
 
-## Technical Skills 🛠️
+## Technical Skills
 -  Proficient in languages and frameworks such as NodeJS, ExpressJS, MongoDB, and JavaScript.
 -  Experienced in several technologies including HTML, CSS, Kotlin, Python, Java and Flutter.
 -  Knowledgeable in database management and backend implementation.
