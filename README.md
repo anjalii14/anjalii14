@@ -14,6 +14,12 @@ Hi, I’m Anjali Singh, a B.Tech student in Information Technology at the Indian
   **Effortless Multi-Page Document Video Scanning**  
   *Technologies: OpenCV, Kotlin, C++, JNI*
   - Implemented an auto-capture video document scanner app in Kotlin, which detects, crops, and scans only unique documents
+ 
+- **SWE Intern at Groww**  
+  *Jan 2025 – Present | Bangalore*  
+  **RESTful Apis development using Spring-Boot**  
+  *Technologies: Java, Kafka, Spring-Boot, Redis, ArgoCD, Docker, Kubernetes, Microservices*
+  - Build APIs for financial technology products related to commodities.
 
 ## Technical Skills
 -  Proficient in languages and frameworks such as NodeJS, ExpressJS, MongoDB, and JavaScript.
