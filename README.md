@@ -21,7 +21,7 @@ Hi, I’m Anjali Singh, a Software Engineer at Google and a B.Tech graduate in I
   **RESTful Apis development using Spring-Boot**  
   *Technologies: Java, Kafka, Spring-Boot, Redis, ArgoCD, Docker, Kubernetes, Microservices*
   - Built APIs for fintech products in the commodities domain, including global search, order history (end-to-end), generic ingestion flow, daily spot price, contract note PDF generation, and top-traded APIs.
-  - [Project PPT](https://docs.google.com/presentation/d/1aO4Yq3RwsTrD59f5eWEruvlkRbKgkB7_/edit?slide=id.p17#slide=id.p17)
+  - [Project PPT](https://docs.google.com/presentation/d/1aO4Yq3RwsTrD59f5eWEruvlkRbKgkB7_/edit?slide=id.p1#slide=id.p1)
 
 ## Technical Skills
  - Proficient in languages and frameworks such as Node.js, Express.js, Spring Boot, MongoDB, and JavaScript.
