@@ -21,6 +21,7 @@ Hi, I’m Anjali Singh, a Software Engineer at Google and a B.Tech graduate in I
   **RESTful Apis development using Spring-Boot**  
   *Technologies: Java, Kafka, Spring-Boot, Redis, ArgoCD, Docker, Kubernetes, Microservices*
   - Built APIs for fintech products in the commodities domain, including global search, order history (end-to-end), generic ingestion flow, daily spot price, contract note PDF generation, and top-traded APIs.
+  - [Project PPT](https://docs.google.com/presentation/d/1aO4Yq3RwsTrD59f5eWEruvlkRbKgkB7_/edit?slide=id.p17#slide=id.p17)
 
 ## Technical Skills
  - Proficient in languages and frameworks such as Node.js, Express.js, Spring Boot, MongoDB, and JavaScript.
@@ -29,9 +30,9 @@ Hi, I’m Anjali Singh, a Software Engineer at Google and a B.Tech graduate in I
  - Experienced in core Android application design and development.
 
 ## Projects 
-- **Workwise**: A project management tool that syncs with GitHub, allowing users to manage issues, pull requests, and more.
-- **Image Augmented Named Entity Recognition (IA-HiNER)**: Developed a system to enhance NER accuracy by integrating image captions, achieving significant improvements in entity recognition.
-- **Connexa**: A social networking site featuring real-time chat and user management functionalities.
+- [Workwise](https://workwise-v2.vercel.app/): A project management tool that syncs with GitHub, allowing users to manage issues, pull requests, and more.
+- [Image Augmented Named Entity Recognition (IA-HiNER)](https://drive.google.com/drive/folders/1ZB8Q_mAj4gJtOhIZBInIPqVBwzKXQgGb): Developed a system to enhance NER accuracy by integrating image captions, achieving significant improvements in entity recognition.
+- [Connexa](https://connexa-iiita.vercel.app/): A social networking site featuring real-time chat and user management functionalities.
 
 ## How to Reach Me 📫
 - 📧 Email: [anjjalisingh14@gmail.com](mailto:anjjalisingh14@gmail.com)
